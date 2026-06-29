@@ -1,0 +1,42 @@
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- Python (if you script the compiler) ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+
+# ---- Node (if you script tooling) ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---- Logs / temp / scratch ----
+*.log
+tmp/
+temp/
+scratch/
+scratchpad/
+*.bak
+
+# ---- Local / private (do NOT publish) ----
+local/
+private/
+*.local.*
+secrets.*
+
+# publisher-only, never publish
+项目说明_给发布者.md
