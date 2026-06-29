@@ -71,20 +71,6 @@ Nuwa/
 
 ---
 
-## 建议的 GitHub Topics / Suggested topics
-
-发布者可把以下标签贴到仓库 Topics，便于被搜索与发现：
-
-```
-prompt-engineering   system-prompt        prompt-architect
-ai-agent             agent-design         prompt-template
-llm                  prompt-compiler      guardrails
-prompt-generator     ai-assistant         claude
-cursor               prompt-injection     agentic-ai
-```
-
----
-
 ## 许可 / License
 
 **PolyForm Noncommercial 1.0.0（禁商用 / Noncommercial）** — 版权人 Lucio Liu。
